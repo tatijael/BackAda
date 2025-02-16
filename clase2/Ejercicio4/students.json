@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Leo",
+    "age": 20,
+    "course": "Web Development",
+    "grades": [
+      90,
+      85,
+      88
+    ]
+  },
+  {
+    "name": "Paula",
+    "age": 22,
+    "course": "Data Science",
+    "grades": [
+      95,
+      90,
+      92
+    ]
+  },
+  {
+    "name": "Alicia",
+    "age": 25,
+    "course": "UX/UI Design",
+    "grades": [
+      80,
+      85,
+      88
+    ]
+  },
+  {
+    "name": "Beto",
+    "age": 21,
+    "course": "Web Development",
+    "grades": [
+      85,
+      90,
+      92
+    ]
+  },
+  {
+    "name": "Juan",
+    "age": 23,
+    "course": "Design",
+    "grades": [
+      85,
+      90,
+      92
+    ]
+  }
+]
