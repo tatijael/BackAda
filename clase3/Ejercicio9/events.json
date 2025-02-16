@@ -1,0 +1,14 @@
+[
+  {
+    "id": 2,
+    "name": "Wedding",
+    "date": "2021-10-15",
+    "place": "Church"
+  },
+  {
+    "id": 3,
+    "name": "Graduation",
+    "date": "2021-12-20",
+    "place": "University"
+  }
+]

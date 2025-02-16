@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Web development",
+    "status": "in progress"
+  },
+  {
+    "id": 2,
+    "name": "Mobile app",
+    "status": "completed"
+  },
+  {
+    "id": 3,
+    "name": "Data analysis",
+    "status": "pending"
+  }
+]
