@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Estudiar JavaScript",
+    "description": "Estudiar JavaScript en el curso de ADA",
+    "status": "pending"
+  },
+  {
+    "name": "Hacer ejercicio",
+    "description": "Hacer ejercicio por la mañana",
+    "status": "complete"
+  },
+  {
+    "name": "Comprar comida",
+    "description": "Comprar comida para la semana",
+    "status": "pending"
+  },
+  {
+    "name": "Hacer la tarea",
+    "description": "Hacer la tarea de la escuela",
+    "status": "pending"
+  }
+]
