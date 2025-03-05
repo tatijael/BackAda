@@ -3,16 +3,15 @@ const net = require('net');
 const client = new net.Socket();
 
 client.connect(3000, 'localhost', () => {
-    console.log('Conectado al servidor');
-    console.log('Comandos disponibles: fecha, ip, salir');
+    console.log('Conectado al chat');
 });
 
 client.on('data', (data) => {
-    console.log('Servidor dice:', data.toString());
+    console.log(data.toString());
 });
 
 client.on('close', () => {
-    console.log('Conexión cerrada');
+    console.log('Desconectado del chat');
     process.exit();
 });
 
