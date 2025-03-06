@@ -1,0 +1,20 @@
+[
+  {
+      "id": 1,
+      "titulo": "El Principito",
+      "autor": "Antoine de Saint-Exupéry",
+      "año": 1943
+  },
+  {
+      "id": 2,
+      "titulo": "Cien Años de Soledad",
+      "autor": "Gabriel García Márquez",
+      "año": 1967
+  },
+  {
+      "id": 3,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "año": 1949
+  }
+]

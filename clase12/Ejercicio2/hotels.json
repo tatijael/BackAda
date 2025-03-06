@@ -1,0 +1,29 @@
+[
+  {
+      "id": 1,
+      "nombre": "Hotel Plaza",
+      "habitaciones": [
+          { "numero": 101, "disponible": true },
+          { "numero": 102, "disponible": false },
+          { "numero": 103, "disponible": true }
+      ]
+  },
+  {
+      "id": 2,
+      "nombre": "Hotel Sol",
+      "habitaciones": [
+          { "numero": 201, "disponible": true },
+          { "numero": 202, "disponible": true },
+          { "numero": 203, "disponible": false }
+      ]
+  },
+  {
+      "id": 3,
+      "nombre": "Hotel Luna",
+      "habitaciones": [
+          { "numero": 301, "disponible": false },
+          { "numero": 302, "disponible": false },
+          { "numero": 303, "disponible": false }
+      ]
+  }
+]
